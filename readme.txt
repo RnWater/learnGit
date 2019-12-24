@@ -1,4 +1,8 @@
 today i will learn git
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+Git has a mutable index called stage
+learn git command  
+
+git push origin master
+.
